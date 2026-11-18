@@ -1,9 +1,0 @@
-benchmark,gates,method,key_bits,max_skew,avg_skew,corruption,key_gates,sat_iters,sat_status,sat_time_s,key_recovered
-c17,6,maxsat,2,0.058,0.0563,0.7167,2,1,completed,0.0,True
-c17,6,random,2,0.1395,0.1364,0.5596,2,1,completed,0.0,True
-synth_s,25,maxsat,4,0.0078,0.0029,0.3579,4,1,completed,0.001,True
-synth_s,25,random,4,0.5,0.1919,0.0,4,0,completed,0.0,False
-synth_m,60,maxsat,8,0.0065,0.0024,0.4081,8,1,completed,0.002,True
-synth_m,60,random,8,0.2518,0.1273,0.0867,8,4,completed,0.007,True
-synth_l,120,maxsat,12,0.0155,0.0058,0.2428,12,2,completed,0.006,True
-synth_l,120,random,12,0.3745,0.1644,0.1799,12,1,completed,0.004,True
