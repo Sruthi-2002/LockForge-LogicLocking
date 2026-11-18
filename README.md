@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lockforge.gif" alt="LockForge — MaxSAT-based logic locking reproduction" width="100%"/>
+</p>
+
 # LockForge Reproduction — MaxSAT-Based Logic Locking
 
 **Agent-Based Paper Reproduction · GenAI-Based Chip Design (ECE-GY 9941)**
